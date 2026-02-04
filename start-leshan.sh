@@ -1,4 +1,5 @@
-#!/usr/bin/env sh -eu
+#!/usr/bin/env sh
+set -eu
 
 # Download Leshan if needed
 if [ ! -f leshan-server-demo.jar ]; then
