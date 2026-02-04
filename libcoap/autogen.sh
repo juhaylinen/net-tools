@@ -1,4 +1,5 @@
-#!/usr/bin/env sh -e
+#!/usr/bin/env sh
+set -e
 
 # uncomment the set command for debugging
 #set -x
